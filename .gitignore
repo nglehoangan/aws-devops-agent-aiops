@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+__pycache__/
+.pytest_cache/
+evidence/*
+!evidence/.gitkeep
+!evidence/README.md
